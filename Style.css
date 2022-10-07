@@ -1,0 +1,77 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+.container-fluid {
+    background-color: rgb(80, 78, 78);
+    height: 10vh;
+    margin: 0;
+    
+}
+#blanco{
+    color: white
+}
+#verde{
+    color: green
+}
+
+.alinear {
+    text-align: end;
+    padding: 2%;
+}
+
+header {
+    background-image: url(./Imagenes/ba1.jpg);
+    height: 60vh;
+    background-size: cover;
+    text-align: end;
+    margin: 0%;
+    padding: 10px;
+    color: white;
+}
+
+.alinearheader {
+    padding: 10%;
+    text-justify: auto;
+}
+
+.alinearsection {
+    text-align: center;
+}
+
+.margenessection {
+    margin: 3% 10%;
+}
+
+.botonesanuncio {
+    display: flex;
+}
+
+.Backgraundsection {
+    background-color: rgb(80, 78, 78);
+    text-align: justify;
+    color: white;
+}
+
+.formulario {
+    padding: 0% 20%;
+}
+
+#Botonverde {
+    background-color: green;
+}
+
+#imagenfooter {
+    background-image: url(./Imagenes/footer.jpg);
+    color: white;
+}
+
+.menufooter {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 2%;
+}
+
